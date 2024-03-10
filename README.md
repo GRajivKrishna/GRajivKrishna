@@ -23,8 +23,9 @@ Here are some of the skills I possess:
 
 <a href="https://www.python.org/"><img src="https://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-4.png" alt="ln" width="40" height="40"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="ln" width="40" height="40"></a>
-[![Java](https://img.shields.io/badge/-Java-orange)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/-C++-blueviolet)](https://en.wikipedia.org/wiki/C%2B%2B)
+<a href="https://www.java.com/"><img src="https://pic.onlinewebfonts.com/thumbnails/animations_385635.svg" alt="ln" width="40" height="40"></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%2B%2B_logo.png/800px-C%2B%2B_logo.png?20210422185554" alt="ln" width="40" height="40"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="ln" width="40" height="40"></a> 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
