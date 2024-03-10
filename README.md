@@ -15,7 +15,7 @@ Feel free to reach out to me via email or social media:
 Check out my YouTube channel for the latest gaming content!
 
 
-<a href="https://www.linkedin.com/in/rajiv-krishna-g"><img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png" alt="Yt" width="55" height="50"></a>
+<a href="https://www.youtube.com/@XpertGamerxg"><img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png" alt="Yt" width="55" height="50"></a>
 
 ## Skillset
 
