@@ -26,14 +26,13 @@ Here are some of the skills I possess:
 <a href="https://www.java.com/"><img src="https://pic.onlinewebfonts.com/thumbnails/animations_385635.svg" alt="ln" width="40" height="40"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%2B%2B_logo.png/800px-C%2B%2B_logo.png?20210422185554" alt="ln" width="40" height="40"></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="ln" width="40" height="40"></a> 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://www.mysql.com/)
-[![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-blue)](https://www.vegascreativesoftware.com/us/)
-[![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)](https://www.adobe.com/products/photoshop.html)
-[![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-blue)](https://www.adobe.com/products/premiere.html)
-[![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-red)](https://obsproject.com/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="ln" width="40" height="40"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="ln" width="40" height="40"></a> 
+<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" alt="ln" width="60" height="40"></a> 
+<a href="https://www.vegascreativesoftware.com/us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vegas_Pro_19.svg/192px-Vegas_Pro_19.svg.png" alt="ln" width="40" height="40"></a> 
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/180px-Adobe_Photoshop_CC_icon.svg.png" alt="ln" width="40" height="40"></a> 
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/180px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="ln" width="40" height="40"></a> 
+<a href="https://obsproject.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/180px-OBS_Studio_Logo.svg.png" alt="ln" width="40" height="40"></a> 
 
 ## More about me
 - 🌱 I’m currently learning Unreal Engine
