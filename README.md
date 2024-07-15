@@ -1,7 +1,7 @@
 # Hi👋 , I am G Rajiv Krishna 
 
 ## About Me
-- I a student at Amrita Vishwa Vidyapeetham. I am an aspiring software engineer with a passion to solve problems. I am also passionate about developing and creating content on video games.
+- I am student at Amrita Vishwa Vidyapeetham. I am an aspiring software engineer with a passion to solve problems. I am also passionate about developing and creating content on video games.
 
 ## Contact
 
